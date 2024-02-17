@@ -44,7 +44,7 @@
 
 <div align="center">
     <h1>
-        <a href="https://wakatime.com/@018d2cdb-70bd-41bb-81e3-9cc9c1d1b558"><img src="https://wakatime.com/badge/user/018d2cdb-70bd-41bb-81e3-9cc9c1d1b558.svg" alt="Total time coded since Jan 21 2024" /></a>
+        <a href="https://wakatime.com/@018db7fa-8374-4a68-8428-91b3258c40da"><img src="https://wakatime.com/badge/user/018db7fa-8374-4a68-8428-91b3258c40da.svg" alt="Total time coded since Feb 17 2024" /></a>
     </h1>
     <picture>
         <source
