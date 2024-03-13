@@ -40,20 +40,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=akashbirthal23&show_icons=true&&hide_border=true&langs_count=8" height="200" />
     </picture>
 </div>
-<br/>
-
-<div align="center">
-    <h1>
-        <a href="https://wakatime.com/@018db7fa-8374-4a68-8428-91b3258c40da"><img src="https://wakatime.com/badge/user/018db7fa-8374-4a68-8428-91b3258c40da.svg" alt="Total time coded since Feb 17 2024" /></a>
-    </h1>
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=akashbirthal23&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=akashbirthal23&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akashbirthal23&layout=compact&hide_border=true" height="200" />
-    </picture>
-</div>
 
 <div align="center">
     <h3> My Handles </h3>
