@@ -8,7 +8,6 @@
     <li>I am Akash Birthal, a final-year undergraduate student at IIT Kanpur</li>
     <li>I am passionate about Machine Learning and Data Science</li>
     <li>I am also interested in competitive programming and regularly participate in contests</li>
-    <li>You can visit my <a href="https://akashbirthal23.github.io/portfolio/">Portfolio</a> website to know more about me</li>
     <li>You can contact me through email - <a href="mailto:akashbirthaliitk@gmail.com">akashbirthaliitk@gmail.com</a></li>
 </ul>
 
